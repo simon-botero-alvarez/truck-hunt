@@ -68,7 +68,10 @@ New Features
 - Make the share button functional on the individual food truck pages.
 - Include price ranges for food truck menus.
 - Enable internationalization (i18n) for multi-language support.
-- Require user accounts for creating new food trucks.
+- Implement a login system with different account types and roles, allowing users to create food trucks and manage their listings based on their permissions.
+- Integrate a third-party service to allow users to leave reviews and comments for each food truck.
+- Add working hours and days to the listing and map markers so foodies can see if a food truck is currently open.
+- Improve the documentation in the README.md file.
 
 Performance Optimizations
 
@@ -80,6 +83,8 @@ Performance Optimizations
 - Clean up the map to remove unnecessary clutter.
 - Add a formatting and ESLint configuration document to maintain code consistency.
 - Improve the search functionality to allow searching by food truck description, not just address.
+- Add TypeScript to improve code maintainability and reduce bugs.
+- Add comments throughout the code to explain what is being done in different sections.
 
 ## 6. Deployment
 
