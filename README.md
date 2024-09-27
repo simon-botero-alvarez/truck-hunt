@@ -88,8 +88,4 @@ Performance Optimizations
 
 ## 6. Deployment
 
-The app is deployed on [Vercel](https://vercel.com), making it easy to access from any device. It integrates seamlessly with the Next.js framework for fast builds and automatic deployments.
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+The app is intended to be deployed on Vercel, which will make it easy to access from any device and integrate seamlessly with the Next.js framework for fast builds and automatic deployments. However, this step has not yet been completed.
